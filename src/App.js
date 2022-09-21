@@ -145,7 +145,13 @@ export default function App() {
           </div>
         </div>
       </div>
-      <a href="https://github.com/shollid1n/weather-react.git">Open Source</a>
+      <a href="https://github.com/shollid1n/weather-react.git">
+        open sourced on Git Hub
+      </a>
+      and{" "}
+      <a href="https://guileless-sherbet-a5b851.netlify.app/">
+        hosted on Netlify
+      </a>
     </div>
   );
 }
