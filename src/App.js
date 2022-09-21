@@ -1,8 +1,8 @@
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
+    <div class="App">
       <div class="weather-app">
         <form id="search-form" class="mb-3">
           <div class="row">
@@ -148,5 +148,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
