@@ -18,7 +18,7 @@ export default function Weather(props) {
       <Audio
         height="100"
         width="100"
-        color="#4fa94d"
+        color="orange"
         ariaLabel="audio-loading"
         wrapperStyle={{}}
         wrapperClass="wrapper-class"
