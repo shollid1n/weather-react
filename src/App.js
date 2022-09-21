@@ -145,6 +145,7 @@ export default function App() {
           </div>
         </div>
       </div>
+      <a href="https://github.com/shollid1n/weather-react.git">Open Source</a>
     </div>
   );
 }
